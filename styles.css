@@ -1,0 +1,49 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #F8E5E0;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+h1, h2 {
+    text-align: center;
+    color: #7b1785;
+}
+
+section {
+    background-color: #fbef00;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+button {
+    background-color: #07af91;
+    color: #333;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #7eb8ae;
+}
+
+p#studentId {
+    text-align: right;
+    color: #8C2F39;
+    font-weight: bold;
+}
+
+p {
+    margin: 15px 0;
+    padding: 10px;
+    background-color: #EAF4D3;
+    border-radius: 5px;
+    color: #333;
+}
