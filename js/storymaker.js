@@ -71,8 +71,8 @@ function random_on_click() {
 }
 
 function displayStudentInfo() {
-    const studentInfo = "Student ID: 12345, Name: John Doe";
-    document.getElementById('200373088').innerText = studentInfo;
+    const studentInfo = "Student ID: 200373088, Name: Matthew Antonis";
+    document.getElementById('studentId').innerText = studentInfo;
 }
 
 /* Event Listeners
